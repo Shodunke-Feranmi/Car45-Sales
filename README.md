@@ -74,9 +74,8 @@ Buyers, sellers, and dealers in the used-car market need to know which cars are 
 - **Skewed prices:** the average price is about 1.6x the median, so the median is a better measure of a typical car.
 ## 📸 Dashboard / Visualizations
  
-![Dashboard Overview](images/dashboard_overview.png)
-![Top Brands](images/top_brands.png)
-![Listings by State](images/listings_by_state.png)
+![Dashboard Overview](https://github.com/Shodunke-Feranmi/Car45-Sales/blob/main/Car_45%20Dashboard.png)
+
  
 ## 📚 Skills Demonstrated
  
